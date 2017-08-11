@@ -1,0 +1,10 @@
+
+# Binary Files
+*.exe
+*.bin
+*.o
+*.obj
+*.so
+*.lib
+*.dll
+*.a
